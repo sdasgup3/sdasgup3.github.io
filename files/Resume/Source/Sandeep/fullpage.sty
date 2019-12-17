@@ -1,0 +1,34 @@
+% To use:  Use an an option to the \documentstyle command e.g.
+% \documentstyle[12pt,spacing,fullpage]{article}   or
+% \documentstyle[fullpage]{report}                 etc.
+%
+% For use with LaTeX.  This (hopefully) resets a document style to
+% use the full output page, just as plain.tex does.
+% Most of the rest stolen from the LaTeX file rep10.doc.  Dimensions
+% have been changed to protect the innocent (user).
+% John Sellens (jmsellens@watmath)
+%
+% All margin dimensions measured from a point one inch from top and side
+% of page.  Dimensions shrink by about 2 percent
+
+\typeout{Using full size pages: 'fullpage' documentstyle option}
+
+% SIDE MARGINS:
+\oddsidemargin -10pt    %   Note that \oddsidemargin = \evensidemargin
+\evensidemargin -10pt
+\marginparwidth 50pt 
+\marginparsep 5pt       % Horizontal space between outer margin and 
+                        % marginal note
+
+
+% VERTICAL SPACING:        
+                         % Top of page:
+\topmargin 0pt           %    Nominal distance from top of page to top of
+                         %    box containing running head.
+
+
+% DIMENSION OF TEXT:
+
+\textheight 595pt        % Height of text (including footnotes and figures, 
+                         % excluding running head and foot).
+\textwidth 6.5in         % Width of text line.

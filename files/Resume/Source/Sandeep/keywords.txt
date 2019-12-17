@@ -1,0 +1,296 @@
+Automation Tools & Infrastructure Engineer
+
+Job Number: 49758774Santa Clara Valley, California, United StatesPosted: Jun. 24, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/5731Hiring Manager: Schifer, MarcRecruiter: Lippert, MariaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+We are looking for an experienced engineer with a broad background in test automation and infrastructure tools to help us improve our testing and quality infrastructure
+
+Key Qualifications
+
+Skilled in python or other scripting languages
+Experienced with creating and maintaing test automation framewroks
+Experienced with Jenkins or other CI systems.
+Experienced creating web based applications
+Familiar with C/C++
+Familiar with version control systems such as GIT and Subversion
+Basic knowledge of how compilers work (LLVM or GCC)
+Skilled problem solver with excellent communications skills
+Experience with working on open source projects
+Description
+
+Build tools to enable the compiler team to build better tools!. The Developer Tools team is looking for an Automation Tools & Infrastructure Engineer with a broad background in test automation and engineering tools development. You will be responsible for maintaining and enhancing the test automation frameworks used by the compiler team and help design, create, and maintain engineering productivity tools such performance & regression analysis tools, project dashboards, and other quality related projects.  You will need to have a passion for quality and automation, an ability to understand complex systems and a desire to constantly make things better.  
+
+Education
+
+B.S. in Computer Science or equivalent experience
+
+
+
+
+Automation Tools & Build Engineer
+
+Job Number: 48953643Santa Clara Valley, California, United StatesPosted: Jun. 9, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/5731Hiring Manager: Schifer, MarcRecruiter: Lippert, MariaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+We are looking for an experienced automation engineer with a background in build systems, You will be responsible for maintaining and enhancing the build system for LLVM/Clang as well as developing internal engineering tools to improve our entering and quality processes.  
+
+Key Qualifications
+
+Skilled in python and/or C/C++,
+Experienced with build system such as Autoconf, Make and CMake on large projects
+Experienced using version control systems such as GIT and Subversion to manage large projects
+Familiar with Jenkins or other CI systems.
+Basic knowledge of how compilers work (LLVM or GCC)
+Skilled problem solver with excellent communications skills
+Experience with working on open source projects
+Description
+
+Build tools to enable the compiler team to build better tools!. The Developer Tools team is looking for an Automation Tool & Build Engineer with a background in build systems and test automation to help us maintain and improve our build infrastructure, analyze build & merge failures and create tools to improve the over all process. You will need to have a passion for quality and automation, an ability to understand complex systems and a desire to constantly make things better.
+
+Education
+
+B.S. in Computer Science or equivalent experience
+
+
+
+JavaScript Virtual Machine Compiler Engineer
+
+Job Number: 42712284Santa Clara Valley, California, United StatesPosted: Apr. 14, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/7138Hiring Manager: Garen, GeoffRecruiter: Wallace, JohnShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 2
+Job Summary
+
+The WebKit JavaScript Virtual Machine is responsible for executing the JavaScript code found in web pages. It uses type inference, dynamic compilation, and sophisticated compilation optimizations to turn JavaScript programs into efficient machine code on X86 and ARM. JavaScript Virtual Machine engineers work on all aspects of the compilation pipeline, including the parser and lexical analysis, the profile-guided type inference, and the optimizing compiler backend. They also own and maintain the language runtime, the garbage collector, and the JavaScriptCore API for native apps.
+
+Key Qualifications
+
+- Detailed knowledge of C and C++
+- Excellent debugging, critical thinking, and communication skills
+- Detailed understanding of data structures and algorithms
+- Experience with compilers, parsers, interpreters, and garbage collectors
+Description
+
+As a JavaScript Virtual Machine Engineer you will work as a generalist in these areas, diagnosing and fixing performance, stability, standards compliance, and compatibility issues, implementing new language features, and supporting browser and non-browser JavaScript clients. 
+
+Education
+
+- BS in computer science or equivalent
+
+Additional Requirements
+
+- Experience with compilers, parsers, interpreters, and garbage collectors  - Experience with assembly-level programming  - Detailed knowledge of the JavaScript language  - Experience with performance analysis  - Experience with open source software development
+
+
+
+
+JavaScript Virtual Machine Compiler Engineer
+
+Job Number: 38351613Santa Clara Valley, California, United StatesPosted: Apr. 14, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/7138Hiring Manager: Garen, GeoffRecruiter: Wallace, JohnShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 2
+Job Summary
+
+The WebKit JavaScript Virtual Machine is responsible for executing the JavaScript code found in web pages. It uses type inference, dynamic compilation, and sophisticated compilation optimizations to turn JavaScript programs into efficient machine code on X86 and ARM. JavaScript Virtual Machine engineers work on all aspects of the compilation pipeline, including the parser and lexical analysis, the profile-guided type inference, and the optimizing compiler backend. They also own and maintain the language runtime, the garbage collector, and the JavaScriptCore API for native apps.
+
+Key Qualifications
+
+- Detailed knowledge of C and C++
+- Excellent debugging, critical thinking, and communication skills
+- Detailed understanding of data structures and algorithms
+- Experience with compilers, parsers, interpreters, and garbage collectors
+Description
+
+As a JavaScript Virtual Machine Engineer you will work as a generalist in these areas, diagnosing and fixing performance, stability, standards compliance, and compatibility issues, implementing new language features, and supporting browser and non-browser JavaScript clients.
+
+Education
+
+- BS in computer science or equivalent
+
+Additional Requirements
+
+- Experience with compilers, parsers, interpreters, and garbage collectors  - Experience with assembly-level programming  - Detailed knowledge of the JavaScript language  - Experience with performanceanalysis  - Experience with open source software development
+
+
+
+Clang Frontend Compiler Engineer
+
+Job Number: 48341019Santa Clara Valley, California, United StatesPosted: Aug. 5, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/5731Hiring Manager: Exon Smith, DuncanRecruiter: Lippert, MariaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 5Low Job Title: SW Develop Eng 4
+Job Summary
+
+Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+Key Qualifications
+
+Strong C++ coding skills and a passion for writing clean, high performing code.
+Knowledge of compiler frontends ("parser") and related tools.
+Familiarity with compiler optimizations, code generation, and the overall design of compilers.
+Expert knowledge of C and C++, with a detailed understanding of the C++ standard and Itanium C++ ABI.
+(Optional, but a big plus) Experience with Objective C/C++.
+(Optional, but a big plus) Knowledge of LLVM/Clang and open source development.
+Excellent communication and interpersonal skills.
+Description
+
+The Apple compiler team is seeking an exceptional frontend compiler engineer who is passionate about improving software development tools. In this position, you will work on frontend development of the LLVM compiler ("Clang"), with a particular focus on engineering new language and compiler features. Experience developing C++ frontends is desirable for this position, but all strong candidates with frontend compiler experience are encouraged to apply.  
+Frontend Compiler Engineer
+
+Job Number: 48741600Santa Clara Valley, California, United StatesPosted: May. 19, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/5731Hiring Manager: Matejska, EwaRecruiter: Lippert, MariaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+Key Qualifications
+
+A passion for bringing great language design and implementation to a mainstream audience.
+Strong C++ coding skills.
+Familiarity with LLVM or Clang a plus, but not required.
+Diverse exposure to different programming languages.
+Familiarity with Cocoa and Objective-C (although not required).
+Description
+
+This position is for an engineer to work on evolving and implementing the core Swift language.
+
+Education
+
+BSCS
+
+
+Debugger/Compiler Engineer
+
+Job Number: 48001142Santa Clara Valley, California, United StatesPosted: Apr. 21, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/5731Hiring Manager: Stone, KateRecruiter: Lippert, MariaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+Imagine what you could do for software development at Apple, where great ideas have a way of becoming great products, and memorable customer experiences. Bring your passion and dedication to creating world class developer tools and there's no telling what we can accomplish.
+
+Key Qualifications
+
+Experienced in C/C++ development
+Knowledge of how compilers work
+Knowledge of modern operating systems
+Ability to investigate and debug difficult problems
+Ability to work in cross functional teams
+Excellent communication and interpersonal skills
+Description
+
+Software engineering at Apple is key to a tremendous range of innovative products. Our iOS, OS X, tvOS and watchOS operating systems are familiar to consumers around the world. Enabling technologies like Siri and iCloud, and user experiences in photography, interpersonal communication, music and film production make a real difference in people’s lives every single day.  None of this would be possible without cutting edge software development tools conceived and brought to life by dedicated teams of passionate individuals. We are seeking an enthusiastic engineer to improve the development experience across all of our platforms. The LLDB team blends compiler technology and a deep understanding of the runtime representation of running processes to enable a rich debugging experience, as well as enabling the Swift REPL and Playgrounds. You will be working with a talented team to improve on established tools and find new ways to apply technology from LLVM, Clang, and Swift to exploring running code.
+
+Education
+
+BSCS
+
+Additional Requirements
+
+(Optional) Familiar with Swift (Optional) Experience with Python (Optional, but a big plus) Knowledge of LLVM/Clang and open source development
+
+
+
+
+Compiler Engineer
+
+Job Number: 49988251Santa Clara Valley, California, United StatesPosted: Jul. 1, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/5731Hiring Manager: Riss, FredericRecruiter: Lippert, MariaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+Key Qualifications
+
+Ideal candidate will have experience with the LLVM compiler or other open-source projects.
+Strong C++ coding skills and a passion for writing great code.
+Familiarity with compiler optimizations, code generation and overall design of compilers.
+Experience debugging a complex software stack and/or system level issues.
+Strong track record of building high quality software. Strong communication and teamwork skills.
+Description
+
+The Apple compiler team is seeking an exceptional engineer who is passionate about improving software development tools. In this position, you will be working on various components of the LLVM toolchain to support new features, fix bugs, and improve performance. Experience with compiler development is desirable for this position, but strong candidates with other kinds of system software experience are also encouraged to apply. 
+
+Education
+
+BSCS
+
+
+
+
+
+Compiler Engineer
+
+Job Number: 49972183Santa Clara Valley, California, United StatesPosted: Jul. 13, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/7286Hiring Manager: Wang, Mon PingRecruiter: Ho, AnnaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+Apple’s Interactive Media Group (IMG) provides the media and graphics software foundation across all of Apple's innovative products, from iPhone, iPad, and iPod touch, to Apple TV, iTunes, and Mac OS X, as well as Apple’s professional and consumer applications from Final Cut and Aperture to iLife and iWork. IMG drives Apple’s media experiences with core technologies such as Metal, QuickTime, OpenGL, OpenCL, Core Audio, Quartz Composer, Core Video, Core Animation, and more.  As a part of IMG, the GPU Software team is responsible for developing the graphics foundation for all iOS and OSX based products. Responsibilities span from low-level GPU driver and compiler development to implementing APIs such as Metal, OpenGL and OpenCL. Our technology provides the GPU acceleration that drives Apple's unique UI and high-quality video and camera features. It enables the advanced graphics seen in today's top games and other apps running on iPhone, iPad and the Mac.
+
+Key Qualifications
+
+Ideal candidate will have experience working on compilers.
+Strong C / C++ programming skills and a passion for writing great code.
+Familiarity with compiler optimizations, code generation, semantic analysis and overall design of compilers.
+Good understanding of GPU architecture.
+Strong track record of building high performance, production quality software on schedule.
+Strong communication and teamwork skills
+Description
+
+The Apple IMG Compiler Team is seeking a compiler engineer to analyze, design, and build front-ends and middle-end optimizations for Metal, OpenCL, and OpenGL. As a key member of the IMG Compiler team, you will apply your state-of-the-art background and experience in influencing the design of the Metal language, deliver a fast and high quality static and JIT front-end and middle-end, and work with a world class team in integrating the compiler into the graphics platform to maximize the graphic and compute potential for Apple products on iOS and MacOSX. 
+
+Education
+
+Technical BS/MS degree
+
+Additional Requirements
+
+• Experience working on LLVM / clang a plus. • Experience with Metal, OpenCL, OpenGL, or other GPU languages a plus.
+
+
+
+Compiler Engineer
+
+Job Number: 42860570Santa Clara Valley, California, United StatesPosted: May. 2, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/7286Hiring Manager: Wang, Mon PingRecruiter: Ho, AnnaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+Apple’s Interactive Media Group (IMG) provides the media and graphics software foundation across all of Apple's innovative products, from iPhone, iPad, and iPod touch, to Apple TV, iTunes, and Mac OS X, as well as Apple’s professional and consumer applications from Final Cut and Aperture to iLife and iWork. IMG drives Apple’s media experiences with core technologies such as Metal, QuickTime, OpenGL, OpenCL, Core Audio, Quartz Composer, Core Video, Core Animation, and more.  As a part of IMG, the GPU Software team is responsible for developing the graphics foundation for all iOS and OSX based products. Responsibilities span from low-level GPU driver and compiler development to implementing APIs such as Metal, OpenGL and OpenCL. Our technology provides the GPU acceleration that drives Apple's unique UI and high-quality video and camera features. It enables the advanced graphics seen in today's top games and other apps running on iPhone, iPad and the Mac.
+
+Key Qualifications
+
+Ideal candidate will have experience working on compilers.
+Strong C / C++ programming skills and a passion for writing great code.
+Familiarity with compiler optimizations, code generation, semantic analysis and overall design of compilers.
+Good understanding of GPU architecture.
+Strong track record of building high performance, production quality software on schedule.
+Strong communication and teamwork skills
+Description
+
+The Apple IMG Compiler Team is seeking a compiler engineer to analyze, design, and build front-ends and middle-end optimizations for Metal, OpenCL, and OpenGL. As a key member of the IMG Compiler team, you will apply your state-of-the-art background and experience in influencing the design of the Metal language, deliver a fast and high quality static and JIT front-end and middle-end, and work with a world class team in integrating the compiler into the graphics platform to maximize the graphic and compute potential for Apple products on iOS and MacOSX. 
+
+Education
+
+Technical BS/MS degree
+
+Additional Requirements
+
+• Experience working on LLVM / clang a plus. • Experience with Metal, OpenCL, OpenGL, or other GPU languages a plus.
+
+
+
+
+Compiler Engineer
+
+Job Number: 48000962Santa Clara Valley, California, United StatesPosted: Apr. 20, 2016Weekly Hours: 40.00Home Office: NoPreferred Candidate Identified: NoCompany: Apple Inc.GL Site/Dept Name: 0056/5731Hiring Manager: Riss, FredericRecruiter: Lippert, MariaShift: Day ShiftEmployment Type: StandardHigh Job Title: SW Develop Eng 4Low Job Title: SW Develop Eng 3
+Job Summary
+
+Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+Key Qualifications
+
+Ideal candidate will have experience with the LLVM compiler or other open-source projects.
+Strong C++ coding skills and a passion for writing great code.
+Familiarity with compiler optimizations, code generation and overall design of compilers.
+Experience debugging a complex software stack and/or system level issues.
+Strong track record of building high quality software.
+Strong communication and teamwork skills.
+Description
+
+The Apple compiler team is seeking an exceptional engineer who is passionate about improving software development tools. In this position, you will make sure we ship a high quality compiler to our users. This involves working on various components of the LLVM toolchain to support new features, fix bugs, and improve performance. Experience with compiler development is desirable for this position, but strong candidates with other kinds of system software experience are also encouraged to apply. 
+
+Education
+
+BSCS
+Education
+
+BSCS
+
+
+
+

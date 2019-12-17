@@ -1,0 +1,80 @@
+\documentclass[10pt]{article}
+02	\usepackage{array, xcolor, lipsum, bibentry}
+03	\usepackage[margin=3cm]{geometry}
+04	 
+05	\title{\bfseries\Huge Tom T. Texblog}
+06	\author{texblog+cv@gmail.com}
+07	\date{}
+08	 
+09	\definecolor{lightgray}{gray}{0.8}
+10	\newcolumntype{L}{>{\raggedleft}p{0.14\textwidth}}
+11	\newcolumntype{R}{p{0.8\textwidth}}
+12	\newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
+13	 
+14	\begin{filecontents}{publication.bib}
+15	@article{lamport1986latex,
+16	  title={LaTEX: User's Guide \&amp; Reference Manual},
+17	  author={Lamport, L.},
+18	  year={1986},
+19	  publisher={Addison-Wesley}
+20	}
+21	@book{knuth2006art,
+22	  title={The art of computer programming: Generating all trees: history of combinatorial generation},
+23	  author={Knuth, D.E.},
+24	  volume={4},
+25	  year={2006},
+26	  publisher={addison-Wesley}
+27	}
+28	\end{filecontents}
+29	 
+30	\begin{document}
+31	\maketitle
+32	\vspace{1em}
+33	\begin{minipage}[ht]{0.48\textwidth}
+34	Main Road 25\\
+35	City 12345\\
+36	State of Sabotage
+37	\end{minipage}
+38	\begin{minipage}[ht]{0.48\textwidth}
+39	Nonlandian\\
+40	January 3rd, 2020\\
+41	+12 34 56 789
+42	\end{minipage}
+43	\vspace{20pt}
+44	 
+45	\section*{Objective}
+46	Find a job.
+47	 
+48	\section*{Professional Experience}
+49	\begin{tabular}{L!{\VRule}R}
+50	2011--today&{\bf Work at company XY.}\\
+51	&\lipsum[66]\\
+52	\end{tabular}
+53	 
+54	\section*{Education}
+55	\begin{tabular}{L!{\VRule}R}
+56	2005--2007&{\bf MSc in Computer Science, Great University, Country.}\vspace{5pt}\\
+57	2001--2005&BSc in Life Science, Great University, Country.\\
+58	\end{tabular}
+59	 
+60	\section*{Languages}
+61	\begin{tabular}{L!{\VRule}R}
+62	Klingon&Mother tongue\\
+63	{\bf English}&{\bf Fluent}\\
+64	French&Fluent (DELF 2010)\\
+65	Japanese&Fair\\
+66	\end{tabular}
+67	 
+68	\bibliographystyle{plain}
+69	\nobibliography{publication.bib}
+70	 
+71	\section*{Publications}
+72	\begin{tabular}{L!{\VRule}R}
+73	2006&\bibentry{knuth2006art}\vspace{5pt}\\
+74	1986&\bibentry{lamport1986latex}\\
+75	\end{tabular}
+76	{\vspace{20pt}\newline\newline
+77	\vspace{20pt}
+78	\scriptsize\hfill Created by http://texblog.org}
+79	 
+80	\end{document}

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /projects/
 title: "Projects"
 excerpt: "Projects"
 author_profile: true
@@ -31,15 +31,15 @@ are redundant on some but not necessarily all paths through a program. In this
 project, we implemented a PRE optimization pass in LLVM and measured results on
 a variety of applications. 
 
-Implementing Data flow Analyzer [Github](https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework)
-------------
+Implementing "Non-Separable" Data-Flow-Analyzer [Github](https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework)
+------------------
 **Abstract**: To Extend the Generic Data Flow Analyzer GDFA (of gcc) to the
 data flow frameworks where data flow information can be represented using bit
 vectors but the frameworks are not bit vector frameworks because they are
 non-separable e.g., faint variable analysis, possible undefined variable
 analysis, strongly live variable analysis.	
 
-Designing an Interpreter of a dynamic language for Graph Algorithms [Report](Document/report_cs598dhp.pdf)
+Designing Interpreter for a dynamic language for Graph Algorithms [Report](Document/report_cs598dhp.pdf)
 ------------
 **Abstract**: Designed a dynamically typed language and an interpreter for it
 and achieved a slowdown of 2X w.r.t the execution time of statically compiled C
@@ -55,7 +55,7 @@ execution times of the parallel applications. We did a detailed study and
 proposed a power aware load balancer (using Charm++ ) which minimized the
 performance imbalance at the lower power caps by tackling this heterogeneity.  
 
-Designing superscalar processor [Github](https://github.com/sdasgup3/Parallel-Processor-Design)
+Designing Superscalar Processor [Github](https://github.com/sdasgup3/Parallel-Processor-Design)
 ------------
 **Abstract**: To design a customized processor (using parallel processing
     concepts) for the application of document retrieval system. We developed a

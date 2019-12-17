@@ -1,3 +1,9 @@
+---
+title: "Projects"
+excerpt: "Projects"
+collection: projects
+---
+
 ## Few Projects
 
 Clang based AST Instrumentation [Github](https://github.com/sdasgup3/profiler-using-clang-based-ast-instrumentation)

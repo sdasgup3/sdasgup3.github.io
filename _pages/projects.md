@@ -1,10 +1,14 @@
 ---
+permalink: /
 title: "Projects"
 excerpt: "Projects"
-collection: projects
+author_profile: true
+redirect_from: 
+  - /projects/
+  - /projects.html
 ---
 
-## Few Projects
+## A Few Projects
 
 Clang based AST Instrumentation [Github](https://github.com/sdasgup3/profiler-using-clang-based-ast-instrumentation)
 -------------------------------

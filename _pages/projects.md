@@ -45,9 +45,7 @@ and achieved a slowdown of 2X w.r.t the execution time of statically compiled C
 language. This is obtained by providing built-in compiled functions for simple
 graph computation which in turn help to build complex ones.
 
-Mitigating Impact of Heterogeneity Across Power-constrained Nodes on Parallel Applications through Load Balancing
-[Github](https://github.com/sdasgup3/HeterogeneityAwareLoadBalancing)
-[Report](files/report_hetero.pdf)
+Mitigating Impact of Heterogeneity Across Power-constrained Nodes on Parallel Applications through Load Balancing [Github](https://github.com/sdasgup3/HeterogeneityAwareLoadBalancing) [Report](files/report_hetero.pdf)
 ----------------
 **Abstract**: Different processors across the nodes have different execution
 times for the same work-loads. This performance imbalance is seen only when the

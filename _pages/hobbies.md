@@ -18,6 +18,6 @@ weapons training.
     - [Group@UIUC Tagore Festival 2016](https://www.youtube.com/watch?v=PfqsE7sajm8&amp;feature=youtu.be)
     - [Solo@UIUC New Year Festival 2015](https://www.youtube.com/watch?v=XG6ViBPG7yE)
     - [Solo@Intel Dance competition Practice 2012](https://www.youtube.com/watch?v=axtd9SXbtYA)
-    - [Solo@IIT Kanpur, Hall Festival 2011] (https://www.youtube.com/watch?v=F8xdb7LkSrw)
+    - [Solo@IIT Kanpur, Hall Festival 2011](https://www.youtube.com/watch?v=F8xdb7LkSrw)
 
-  - I have spent considerable amount of time playing Table Tennis with excellent players, so ping pong comes natural to me.</p></li>
+  - I have spent considerable amount of time playing Table Tennis with excellent players, so ping pong comes natural to me.

@@ -158,6 +158,7 @@ author:
   avatar           : "bio-photo.png"
   bio              : "Senior Software Engineer @ Google"
   location         : "Sunnyvale, California"
+  download         : "https://sdasgup3.github.io/files/Resume/Source/Sandeep/Resume_Job.pdf"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NayNii0AAAAJ&hl=en"
@@ -178,7 +179,6 @@ author:
   lastfm           :
   linkedin         : "sdasgup3/"
   orcid            : "https://orcid.org/0000-0002-6483-2055"
-  download         : "https://sdasgup3.github.io/files/Resume/Source/Sandeep/Resume_Job.pdf"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

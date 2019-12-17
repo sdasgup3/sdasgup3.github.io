@@ -18,19 +18,19 @@ LLVM based Dwarf Type Reader [Github](https://github.com/sdasgup3/dwarf-type-rea
 **Abstract:** To read type information from debug info section of executable
 using LLVM based APIs.
 
-Pointer Analysis Debugger [Github](https://github.com/sdasgup3/symbolic-analysis) [PPT](files/pa_debugger.pdf)
+Pointer Analysis Debugger [Github](https://github.com/sdasgup3/symbolic-analysis) [PPT](../files/pa_debugger.pdf)
 ------------
 **Abstract:** Finding bugs in LLVM's pointer analysis using a mix of static
 analysis and symbolic execution (using KLEE).
 
-Partial Redundancy Elimination(PRE) [Github](https://github.com/sdasgup3/PartialRedundancyElimination) [Report](files/report_cs526.pdf)
+Partial Redundancy Elimination(PRE) [Github](https://github.com/sdasgup3/PartialRedundancyElimination) [Report](../files/report_cs526.pdf)
 ------------
 **Abstract**: PRE is a compiler optimization that eliminates expressions that
 are redundant on some but not necessarily all paths through a program. In this
 project, we implemented a PRE optimization pass in LLVM and measured results on
 a variety of applications. 
 
-Implementing "Non-Separable" Data-Flow-Analyzer [Github](https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework) [Report](files/report_gdfa.pdf)
+Implementing "Non-Separable" Data-Flow-Analyzer [Github](https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework) [Report](../files/report_gdfa.pdf)
 ------------------
 **Abstract**: To Extend the Generic Data Flow Analyzer GDFA (of gcc) to the
 data flow frameworks where data flow information can be represented using bit
@@ -38,14 +38,14 @@ vectors but the frameworks are not bit vector frameworks because they are
 non-separable e.g., faint variable analysis, possible undefined variable
 analysis, strongly live variable analysis.	
 
-Designing Interpreter for a dynamic language for Graph Algorithms [Github](https://github.com/sdasgup3/gri) [Report](files/report_cs598dhp.pdf)
+Designing Interpreter for a dynamic language for Graph Algorithms [Github](https://github.com/sdasgup3/gri) [Report](../files/report_cs598dhp.pdf)
 ------------
 **Abstract**: Designed a dynamically typed language and an interpreter for it
 and achieved a slowdown of 2X w.r.t the execution time of statically compiled C
 language. This is obtained by providing built-in compiled functions for simple
 graph computation which in turn help to build complex ones.
 
-Mitigating Impact of Heterogeneity Across Power-constrained Nodes on Parallel Applications through Load Balancing [Github](https://github.com/sdasgup3/HeterogeneityAwareLoadBalancing) [Report](files/report_hetero.pdf)
+Mitigating Impact of Heterogeneity Across Power-constrained Nodes on Parallel Applications through Load Balancing [Github](https://github.com/sdasgup3/HeterogeneityAwareLoadBalancing) [Report](../files/report_hetero.pdf)
 ----------------
 **Abstract**: Different processors across the nodes have different execution
 times for the same work-loads. This performance imbalance is seen only when the
@@ -61,7 +61,7 @@ Designing Superscalar Processor [Github](https://github.com/sdasgup3/Parallel-Pr
 superscalar processor (with  an issue rate of 2) using verilog hdl, and an
 assembler for that processor using flex and bison. 
 
-Graph Coloring Using State Space Search [Github](https://github.com/sdasgup3/ParallelSudoku) [Report](files/CS598_project_proposal.pdf)
+Graph Coloring Using State Space Search [Github](https://github.com/sdasgup3/ParallelSudoku) [Report](../files/CS598_project_proposal.pdf)
 ------------
 **Abstract**: We plan to leverage the state space search model for implementing
 graph coloring in parallel in Charm++. Some of the challenges for efficient

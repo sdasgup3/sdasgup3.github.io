@@ -27,6 +27,6 @@ Career Overview
  - [May, 2017 - August, 2017] Interned at [Google Inc.](https://www.google.com/intl/en/about/) as Software Engineering Intern.
  - [April, 2016 - August, 2016] Interned at [Apple Inc.](http://www.apple.com) as Compiler Engineer.
  - [2011 - 2013] Worked at [Intel India Pvt. Ltd.](http://www.intel.com/content/www/us/en/jobs/locations/india/sites/india-development-center.html) as Component Design Engineer.
- - [2009 - 2011] M.Tech (Computer Sceince) from [IIT Kanput](http://www.iitk.ac.in/).
+ - [2009 - 2011] M.Tech (Computer Sceince) from [IIT Kanpur](http://www.iitk.ac.in/) advised by [Dr. Amey Karkare](http://www.cse.iitk.ac.in/users/karkare).
  - [2006 - 2009] Worked at [Interra Systems Pvt. Ltd.](http://www.interrasystems.com/) & [Atrenta Pvt. Ltd](http://www.atrenta.com/) as Senior Member Of Technical Staff.
  - [2002 - 2006] B.E from [Bengal Engineering & Science University, Shibpur](http://www.becs.ac.in/).

@@ -8,8 +8,6 @@ redirect_from:
   - /projects.html
 ---
 
-## A Few Projects
-
 Clang based AST Instrumentation [Github](https://github.com/sdasgup3/profiler-using-clang-based-ast-instrumentation)
 -------------------------------
 **Abstract:** Clang based AST reformatting tool used for injecting

@@ -62,7 +62,7 @@ Designing Superscalar Processor [Github](https://github.com/sdasgup3/Parallel-Pr
 superscalar processor (with  an issue rate of 2) using verilog hdl, and an
 assembler for that processor using flex and bison. 
 
-Graph Coloring Using State Space Search [Github]("https://github.com/sdasgup3/ParallelSudoku) [Report](Document/CS598_project_proposal.pdf)
+Graph Coloring Using State Space Search [Github](https://github.com/sdasgup3/ParallelSudoku) [Report](Document/CS598_project_proposal.pdf)
 ------------
 **Abstract**: We plan to leverage the state space search model for implementing
 graph coloring in parallel in Charm++. Some of the challenges for efficient

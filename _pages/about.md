@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Computer Science](http://cs.illinois.edu/) at [University of illinois at Urbana Champaign](http://illinois.edu/). I work with [Prof. Vikram Adve](http://vikram.cs.illinois.edu/) on [ALLVM Research Project](https://publish.illinois.edu/allvm-project/).
+I am a PhD student in [Computer Science](http://cs.illinois.edu/) at [University of illinois at Urbana Champaign](http://illinois.edu/) advised by [Prof. Vikram Adve](http://vikram.cs.illinois.edu/) in the [ALLVM Research Project](https://publish.illinois.edu/allvm-project/).
 
 Research Interests
 ------------------
- - Formal X86-64 semantics & Binary Decompilation</li>
+ - Formal X86-64 semantics & Binary Reverse Engineering
+ - Translation Validation of Binary Lifters
  - Dynamic Symbolic Execution
- - Program Static Analysis & verification</li>
+ - Program Static Analysis & verification
  - Compiler Optimizations
  - Parallelizing Compilers
  - Parallel & Power aware Computation

@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-Clang based AST Instrumentation [Github](https://github.com/sdasgup3/profiler-using-clang-based-ast-instrumentation)
+Clang based AST Instrumentation <a href="https://github.com/sdasgup3/profiler-using-clang-based-ast-instrumentation" rel="some text">![Foo](https://github.com/sdasgup3/sdasgup3.github.io/images/iconfinder_github.png)</a>
 ----------------------------
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles

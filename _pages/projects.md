@@ -13,7 +13,7 @@ Clang based AST Instrumentation [Github](https://github.com/sdasgup3/profiler-us
 instrumentation code in C/C++ programs. The goal is collecting profiles
 (run-times and execution frequencies) on C/C++ programs.  
 
-LLVM based Dwarf Type Reader [Github]("https://github.com/sdasgup3/dwarf-type-reader)
+LLVM based Dwarf Type Reader [Github](https://github.com/sdasgup3/dwarf-type-reader)
 ----------------------------
 **Abstract:** To read type information from debug info section of executable
 using LLVM based APIs.

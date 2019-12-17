@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Clang based AST Instrumentation [Github](https://github.com/sdasgup3/profiler-using-clang-based-ast-instrumentation)
--------------------------------
+----------------------------
 **Abstract:** Clang based AST reformatting tool used for injecting
 instrumentation code in C/C++ programs. The goal is collecting profiles
 (run-times and execution frequencies) on C/C++ programs.  

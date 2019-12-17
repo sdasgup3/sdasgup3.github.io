@@ -18,7 +18,7 @@ LLVM based Dwarf Type Reader [Github]("https://github.com/sdasgup3/dwarf-type-re
 **Abstract:** To read type information from debug info section of executable
 using LLVM based APIs.
 
-Pointer Analysis Debugger [Github](https://github.com/sdasgup3/symbolic-analysis) [PPT](Document/pa_debugger.pdf)
+Pointer Analysis Debugger [Github](https://github.com/sdasgup3/symbolic-analysis) [PPT](files/pa_debugger.pdf)
 ------------
 **Abstract:** Finding bugs in LLVM's pointer analysis using a mix of static
 analysis and symbolic execution (using KLEE).
@@ -38,7 +38,7 @@ vectors but the frameworks are not bit vector frameworks because they are
 non-separable e.g., faint variable analysis, possible undefined variable
 analysis, strongly live variable analysis.	
 
-Designing Interpreter for a dynamic language for Graph Algorithms [Report](Document/report_cs598dhp.pdf)
+Designing Interpreter for a dynamic language for Graph Algorithms [Report](files/report_cs598dhp.pdf)
 ------------
 **Abstract**: Designed a dynamically typed language and an interpreter for it
 and achieved a slowdown of 2X w.r.t the execution time of statically compiled C
@@ -61,7 +61,7 @@ Designing Superscalar Processor [Github](https://github.com/sdasgup3/Parallel-Pr
 superscalar processor (with  an issue rate of 2) using verilog hdl, and an
 assembler for that processor using flex and bison. 
 
-Graph Coloring Using State Space Search [Github](https://github.com/sdasgup3/ParallelSudoku) [Report](Document/CS598_project_proposal.pdf)
+Graph Coloring Using State Space Search [Github](https://github.com/sdasgup3/ParallelSudoku) [Report](files/CS598_project_proposal.pdf)
 ------------
 **Abstract**: We plan to leverage the state space search model for implementing
 graph coloring in parallel in Charm++. Some of the challenges for efficient

@@ -71,13 +71,14 @@ exploration of space by chares include intelligent pruning of the state space,
             and come up with design decisions which would work for a large
             category of real-life graph applications.
 
-
+<!---
 ## Graduate Courses
  - [Scripting Languages - Design and Implementation](http://polaris.cs.illinois.edu/CS598)
  - [Advanced Compiler Construction](https://cs.illinois.edu/courses/profile/cs526/)
  - [Parallel Computer Architectures](https://courses.engr.illinois.edu/cs533/)
  - [Parallel Programming with Migratable Objects](https://wiki.cites.illinois.edu/wiki/display/cs598lvk/Home)
  - [Introduction to Parallel Programming for Scientists and Engineers](https://cs.illinois.edu/courses/profile/CS420)
+-->
 
 ## MTech Thesis (Advisor [Dr. Amey Karkare](http://www.cse.iitk.ac.in/users/karkare)) [Report](http://www.cse.iitk.ac.in/users/karkare/MTP/2010-11/sandeep2010precise.pdf)
 **Precise Shape Analysis Using Field Sensitivity**: To disambiguate heap

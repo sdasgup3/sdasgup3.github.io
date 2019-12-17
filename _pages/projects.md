@@ -23,9 +23,7 @@ Pointer Analysis Debugger <a href="https://symbolic-analysis" rel="some text"><i
 **Abstract:** Finding bugs in LLVM's pointer analysis using a mix of static
 analysis and symbolic execution (using KLEE).
 
-Partial Redundancy Elimination(PRE) <a href="https://PartialRedundancyElimination" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/report_cs526.pdf" rel="some text"><i class="far fa-file-alt"></i>
-
-</a>
+Partial Redundancy Elimination(PRE) <a href="https://PartialRedundancyElimination" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/report_cs526.pdf" rel="some text"><i class="far fa-file-alt"></i></a>
 ------------
 **Abstract**: PRE is a compiler optimization that eliminates expressions that
 are redundant on some but not necessarily all paths through a program. In this

@@ -1,0 +1,18 @@
+@Article{Dasgupta2013,
+author="Dasgupta, Sandeep
+and Karkare, Amey
+and Reddy, Vinay Kr",
+title="Precise shape analysis using field sensitivity",
+journal="Innovations in Systems and Software Engineering",
+year="2013",
+month="Jun",
+day="01",
+volume="9",
+number="2",
+pages="79--93",
+abstract="We present a static shape analysis technique to infer the shapes of the heap structures created by a program at run time. Our technique is field sensitive in that it uses field information to compute the shapes. The shapes of the heap structures are computed using two components: (a) Boolean functions that capture the shape transitions due to the update of a field in a structure, and (b) through path matrices that store approximate path information between two pointer variables. We classify the shapes as one of Tree, Directed Acyclic Graph (DAG) and Cycle. The novelty of our approach lies in the way we use field information to remember the fields that cause a heap structure to have a particular shape (Tree, DAG or Cycle). This allows us to easily identify the field updates that cause shape transitions from Cycle to DAG, from Cycle to Tree and from DAG to Tree. This makes our analysis more precise as compared to earlier shape analyses that ignore the fields participating in the formation of a shape. We implemented our analysis in GCC as a dynamic plug-in as an interprocedural data-flow analysis and evaluated it on some standard benchmarks against a field-insensitive shape analysis technique as a baseline approach. We are able to achieve significant precision as compared to the baseline analysis (at the cost of increase in analysis time). In particular, we are able to infer more precise shapes for 4 out 7 Olden benchmarks, and never detect more cycles than the baseline analysis. We further suggest enhancements to improve the precision of our analysis under some constraints and to improve the analysis time at the cost of precision.",
+issn="1614-5054",
+doi="10.1007/s11334-013-0198-7",
+url="https://doi.org/10.1007/s11334-013-0198-7"
+}
+

@@ -11,12 +11,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Resume"
-    url: /cv/
-
-  - title: "Publication"
-    url: /publications/
-
 #  - title: "Talks"
 #    url: /talks/    
 
@@ -25,6 +19,9 @@ main:
 
   - title: "Industry"
     url: /industry/    
+
+  - title: "Resume"
+    url: /cv/
 
 #  - title: "Teaching"
 #    url: /teaching/    

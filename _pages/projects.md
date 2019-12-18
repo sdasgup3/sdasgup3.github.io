@@ -13,24 +13,24 @@ Clang based AST Instrumentation <a href="https://github.com/sdasgup3/profiler-us
 instrumentation code in C/C++ programs. The goal is collecting profiles
 (run-times and execution frequencies) on C/C++ programs.  
 
-LLVM based Dwarf Type Reader <a href="https://github.com/sdasgup3/dwarf-type-reader" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+LLVM based Dwarf Type Reader <a href="https://github.com/sdasgup3/dwarf-type-reader" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** To read type information from debug info section of executable
 using LLVM based APIs.
 
-Pointer Analysis Debugger <a href="https://github.com/sdasgup3/symbolic-analysis" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/pa_debugger.pdf" rel="some text"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i></a>
+Pointer Analysis Debugger <a href="https://github.com/sdasgup3/symbolic-analysis" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/pa_debugger.pdf" rel="some text"><i class="fa fa-file-powerpoint-o" aria-hidden="true" style="color:black;"></i></a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract:** Finding bugs in LLVM's pointer analysis using a mix of static
 analysis and symbolic execution (using KLEE).
 
-Partial Redundancy Elimination(PRE) <a href="https://github.com/sdasgup3/PartialRedundancyElimination" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/report_cs526.pdf" rel="some text"><i class="far fa-file-alt"></i></a>
+Partial Redundancy Elimination (PRE) <a href="https://github.com/sdasgup3/PartialRedundancyElimination" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/report_cs526.pdf" rel="some text"><i class="far fa-file-alt"></i></a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: PRE is a compiler optimization that eliminates expressions that
 are redundant on some but not necessarily all paths through a program. In this
 project, we implemented a PRE optimization pass in LLVM and measured results on
 a variety of applications. 
 
-Implementing "Non-Separable" Data-Flow-Analyzer <a href="https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a> <a href="https://sdasgup3.github.io/files/report_gdfa.pdf" rel="some text"><i class="far fa-file-alt"></i></a>
+Implementing "Non-Separable" Data-Flow-Analyzer <a href="https://github.com/sdasgup3/NonSeparableGlobalDataFlowFramework" rel="some text"><i class="fab fa-fw fa-github" aria-hidden="true" style="color:black;"></i></a> <a href="https://sdasgup3.github.io/files/report_gdfa.pdf" rel="some text"><i class="far fa-file-alt" style="color:black;"></i></a>
 -------------------------------------------------------------------------------------------------------------
 **Abstract**: To Extend the Generic Data Flow Analyzer GDFA (of gcc) to the
 data flow frameworks where data flow information can be represented using bit

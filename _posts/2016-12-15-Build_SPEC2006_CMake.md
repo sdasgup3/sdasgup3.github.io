@@ -7,6 +7,8 @@ tags:
 - SPEC CPU 2006 Benchmark
 date: 2017-08-21
 ---
+Instructions to build Spec2006 using LLVM's Cmake infrastructure.
+
 
 ```shell
   # Setup the environment.

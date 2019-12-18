@@ -5,6 +5,7 @@ tags:
 - Binary
 date: 14-05-2018
 ---
+X86 FAQs & Binary Analysis Tools.
 
 # Tools
 

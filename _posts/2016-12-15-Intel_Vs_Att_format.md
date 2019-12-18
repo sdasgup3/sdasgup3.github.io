@@ -6,6 +6,7 @@ tags:
 - Decompilation
 date: 15-12-2016
 ---
+Differences in Intel (NASM) vs AT&T (GAS) Syntax.
 
 ## Register & Immediate Prefixes
 

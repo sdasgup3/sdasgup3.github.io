@@ -5,6 +5,7 @@ tags:
 - Lambda Calculus
 date: 12-09-2017
 ---
+Lambda Calculus.
 
 # Lambda Calculus
 ## syntax

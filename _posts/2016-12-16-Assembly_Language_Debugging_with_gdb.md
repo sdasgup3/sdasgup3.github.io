@@ -6,6 +6,7 @@ tags:
 - Decompilation
 date: 2016-12-16
 ---
+Assembly Language Debugging with gdb.
 
 ## Useful commands
 - Signal Handlers

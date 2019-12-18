@@ -5,9 +5,7 @@ tags:
 - Syntax, X86/X86-64,
 date: 12-10-2017
 ---
-
-
-__The following is an exceprt from the article mentioned in Reference section.__
+x86-64 Stack Frame Layout
 
 # Process Stack
 ```

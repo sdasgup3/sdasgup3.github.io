@@ -18,6 +18,7 @@ redirect_from:
   <a href="https://dl.acm.org/citation.cfm?id=3314221.3314601">[DOI]</a>
   <a href="../files/pldi_2019.bib">[BIB]</a>
   <a href="../files/ppt_pldi_2019.pdf">[PPT]</a>
+  <a href="https://www.youtube.com/watch?v=eBZtmaNAJwo&t=21s">[VID]</a>
   <a href="https://pldi19.sigplan.org/details/pldi-2019-papers/24/A-Complete-Formal-Semantics-of-x86-64-User-Level-Instruction-Set-Architecture">[PLDI'19]</a>
 
 

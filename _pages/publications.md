@@ -10,7 +10,7 @@ redirect_from:
 ## Conferences
 
   - <b> A Scalable Validation of Binary Lifters, PLDI 2020 </b> <br />
-  by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, <a href="https://sushant94.me/about/">Sushant Dinesh</a>, <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a>, <a href="http://cwfletcher.net/">Christopher W. Fletcher</a> & Deepan Venkatesh., *conditionally accepted* at Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '20), June 15--20, 2020, London, UK. <br />
+  by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, <a href="https://sushant94.me/about/">Sushant Dinesh</a>, Deepan Venkatesh, <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a> & <a href="http://cwfletcher.net/">Christopher W. Fletcher</a>., accepted at Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '20), June 15--20, 2020, London, UK. <br />
 
   - <b> A Complete Formal Semantics of x86-64 User-Level Instruction Set Architecture, PLDI 2019 </b> <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, <a href="https://daejunpark.github.io">Daejun Park</a>, Theodoros Kasampalis, <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a>  & <a href="http://fsl.cs.illinois.edu/index.php/Grigore_Rosu">Grigore Rosu</a>., in Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '19), June 22--26, 2019, Phoenix, AZ, USA. <br />
@@ -74,5 +74,6 @@ redirect_from:
   <a href="https://basics.sjtu.edu.cn/conference/aplas2010/accepted_posters.htm">[APLAS'10]</a> 
 
 ## Services
+ - <b>  Reviewer, Journal of Automated Reasoning (JARS) <a href="https://www.springer.com/journal/10817/">[JARS 2020]</a> </b>
  - <b>  Sub-reviewer, The 30th International Conference on Concurrency Theory <a href="https://event.cwi.nl/concur2019/">[CONCUR 2019]</a> </b>
  - <b>  Sub-reviewer, Workshop on Instruction Set Architecture Specification <a href="https://www.cl.cam.ac.uk/~jrh13/spisa19.html">[SpISA 2019]</a> </b>

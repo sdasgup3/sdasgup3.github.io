@@ -11,11 +11,15 @@ redirect_from:
 
   - <b> A Scalable Validation of Binary Lifters, PLDI 2020 </b> <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, <a href="https://sushant94.me/about/">Sushant Dinesh</a>, Deepan Venkatesh, <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a> & <a href="http://cwfletcher.net/">Christopher W. Fletcher</a>., accepted at Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '20), June 15--20, 2020, London, UK. <br />
+  <a href="../files/pldi_2020.pdf">[PDF]</a>
+  <a href="http://doi.acm.org/10.1145/3385412.3385964">[DOI]</a>
+  <a href="../files/pldi_2020.bib">[BIB]</a>
+  <a href="https://pldi20.sigplan.org/details/pldi-2020-papers/4/Scalable-Validation-of-Binary-Lifters">[PLDI'20]</a>
 
   - <b> A Complete Formal Semantics of x86-64 User-Level Instruction Set Architecture, PLDI 2019 </b> <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, <a href="https://daejunpark.github.io">Daejun Park</a>, Theodoros Kasampalis, <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a>  & <a href="http://fsl.cs.illinois.edu/index.php/Grigore_Rosu">Grigore Rosu</a>., in Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '19), June 22--26, 2019, Phoenix, AZ, USA. <br />
   <a href="../files/pldi_2019.pdf">[PDF]</a>
-  <a href="https://dl.acm.org/citation.cfm?id=3314221.3314601">[DOI]</a>
+  <a href="https://dl.acm.org/doi/10.1145/3314221.3314601">[DOI]</a>
   <a href="../files/pldi_2019.bib">[BIB]</a>
   <a href="../files/ppt_pldi_2019.pdf">[PPT]</a>
   <a href="https://www.youtube.com/watch?v=eBZtmaNAJwo&t=21s">[VID]</a>

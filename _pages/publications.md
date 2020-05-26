@@ -12,7 +12,7 @@ redirect_from:
   - <b> A Scalable Validation of Binary Lifters, PLDI 2020 </b> <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, <a href="https://sushant94.me/about/">Sushant Dinesh</a>, Deepan Venkatesh, <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a> & <a href="http://cwfletcher.net/">Christopher W. Fletcher</a>., accepted at Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '20), June 15--20, 2020, London, UK. <br />
   <a href="../files/pldi_2020.pdf">[PDF]</a>
-  <a href="http://doi.acm.org/10.1145/3385412.3385964">[DOI]</a>
+  <a href="https://doi.org/10.1145/3385412.3385964">[DOI]</a>
   <a href="../files/pldi_2020.bib">[BIB]</a>
   <a href="https://pldi20.sigplan.org/details/pldi-2020-papers/4/Scalable-Validation-of-Binary-Lifters">[PLDI'20]</a>
 

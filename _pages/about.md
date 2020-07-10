@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time Software Engineer at [Google Brain](https://research.google/teams/brain/) working on effient compilation of deep learning models.
+I am a full-time Software Engineer at [Google Brain](https://research.google/teams/brain/) working on compilation of deep learning models.
 
 Research Interests
 ------------------

@@ -7,6 +7,12 @@ redirect_from:
   - /industry
 ---
 
+[Google Inc.](https://www.google.com/intl/en/about/), Software Engineering Google Brain, June 2020 - present
+--------------------
+ - Compilation of deep learning models to TPUs.
+
+
+
 [Google Inc.](https://www.google.com/intl/en/about/), Software Engineering Intern, September 2018 - December 2018
 --------------------
 

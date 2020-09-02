@@ -7,6 +7,12 @@ redirect_from:
   - /publications
 ---
 
+## Ph.D. Dissertation
+<b> Scalable Validation Of Binary Lifters </b> <br />
+  by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>.
+  <a href="http://hdl.handle.net/2142/107968">[URL]</a>
+  <a href="../files/thesis_2020.bib">[BIB]</a>
+
 ## Conferences
 
   - <b> A Scalable Validation of Binary Lifters, PLDI 2020 </b> <br />

@@ -12,7 +12,7 @@ I am a full-time Software Engineer at [Google Brain](https://research.google/tea
 
 Research Interests
 ------------------
- - Compiper for ML and ML for compilers
+ - Compiler for ML and ML for compilers
  - Compiler Optimizations & Code Generation
  - Formal ISA semantics
  - Binary Reverse Engineering

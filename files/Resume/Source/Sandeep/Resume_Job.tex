@@ -211,48 +211,6 @@ LLVM IR) leveraging the formal semantics of LLVM IR and X86-64 ISA. \textbf{\emp
         make the Intel Topdown bottleneck analysis methodology more visible and
         successful.
 
-                        \cmnt{
-                \item  Augmented the
-                \href{https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip.git/tree/tools/perf}{perf}
-                tools with
-                \textbf{\emph{\href{https://ieeexplore.ieee.org/document/6844459}{``Topdown
-                  Analysis''}}} capability.
-			\begin{itemize}
-                                \item Intel developed a cycle decomposition
-                                methodology called
-                                \emph{\href{https://ieeexplore.ieee.org/document/6844459}{Topdown}}.
-                                It uses about 60 hardware events to breakdown
-                                micro-architectural performance bottlenecks
-                                encountered by running software on Intel
-                                processors. It is very useful in characterizing
-                                workloads and focusing on where to apply
-                                optimizations.  Topdown is described as a tree
-                                of metrics, each one requiring many events, and
-                                published as a complex spreadsheet. The goal of
-                                the project is to automate the conversion of
-                                the formulas in the spreadsheet into C code
-                                that can be integrated into the perf tool.
-                                Today, this conversion is done by hand. As the
-                                spreadsheet is constantly evolving to support
-                                new hardware and tweak of the formulas, we need an
-                                automated way of doing the conversion. Such an
-                                automated converter is realized in this
-                                project.
-
-                                \item We developed tool ‘topdown\_parser’ which
-                                takes as input, the topdown xlsx, and generates
-                                C code to collect and report all levels of
-                                topdown tree across all supported processors.
-                                The tool is general enough to emit code
-                                (encoding the topdown formulas) for other
-                                projects like,
-                                \emph{\href{https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip.git/tree/tools/perf}{
-                                  Public perf tool}}, in which case we emit
-                                  json files encoding the topdown metric
-                                  expression.
-
-			\end{itemize}
-                        }
 
 \item Second, Developed proof-of-concept prototypes to achieve data profile symbolization.
                 %\item Data Profiling to extract type information from binaries:
@@ -264,27 +222,6 @@ LLVM IR) leveraging the formal semantics of LLVM IR and X86-64 ISA. \textbf{\emp
                 LLVM based tools implementing approaches based on: (1)
                 Allocation Based Profiling and (2) Dwarf debug Info.
                 \item Received manager's recognition via spot bonus.
-
-                \cmnt{
-			\begin{itemize}
-
-                          \item Based on Allocation Based Profiling: We
-                          generate samples of allocation information (like
-                              allocation base address, size, etc) and use that
-                          to find which allocation is feeding a particular
-                          load/store data address.
-
-                          \item Based on Dwarf debug Info: Dwarf debug
-                          information stores, as a best effort, the variables
-                          in a given scope along with its associated type. The
-                          idea is to find which variable, in load/store
-                          instruction's scope, is getting consumed by a given
-                          load/store data address. For that we needed to parse
-                          the location list information of dwarf.
-
-			\end{itemize}
-                }
-
 	\end{itemize}
 
         \textbf{Software Engineering Intern, Tipp Moseley, Continuous profiling team} \hfill \emph{May'17 - Aug'17}\\
@@ -294,12 +231,6 @@ LLVM IR) leveraging the formal semantics of LLVM IR and X86-64 ISA. \textbf{\emp
                 guiding the service owners to pinpoint unexpected performance
                 changes (called ``havocs'' in this work) in CPU time.
 
-                        \cmnt{Challenges are:
-			\begin{itemize}
-				\item To determine ``havocs'' amid noisy data.
-				\item To reduce false positives and pinpoint actionable ``havocs'' to the service providers.
-			\end{itemize}
-                        }
 		%\item Investigated the effectiveness of existing strategies in literature and open source.
 		%\item
 			Developed a statistical Go tool which determines
@@ -456,6 +387,26 @@ Instruction Set Architecture}'', in \emph{Programming Language Design and Implem
                   \href{https://basics.sjtu.edu.cn/conference/aplas2010/accepted_posters.htm}{[APLAS'10]}
 	\end{itemize}
 
+\textbf{Services}{} \hfill  \\
+	\vspace*{-4pt}
+	\begin{itemize} \itemsep 3pt
+          \item Program Committee Member at the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2021) \href{https://pldi21.sigplan.org/}{[PLDI 2021]}
+          \item Sub-reviewer, The 30th International Conference on Concurrency Theory \href{https://event.cwi.nl/concur2019/}{[CONCUR 2019]}
+          \item Sub-reviewer, Workshop on Instruction Set Architecture Specification \href{https://www.cl.cam.ac.uk/~jrh13/spisa19.html}{[SpISA 2019]}
+          \item Editorial Board Member of \href{http://www.ajnna.org/}{American Journal of Neural Networks and Applications}
+          \item Technical Program Committee Member for
+	    \begin{itemize}
+              \item The International Journal of Artificial Intelligence \href{http://ijai.iaescore.com/index.php/IJAI}{[IJAI 2020]}
+              \item TELKOMNIKA (Telecommunication Computing Electronics and Control) \href{http://journal.uad.ac.id/index.php/TELKOMNIKA/index}{[TELCOMNIKA 2021]}
+              \item International Journal of Electrical and Computer Engineering \href{http://ijece.iaescore.com/index.php/IJECE}{[IJECE 2021]}
+              \item The 1st Conference on Internet of Things and Embedded Intelligence \href{http://citei.intconference.org/}{[CITEI 2020]} 
+              \item Bulletin of Electrical Engineering and Informatics  \href{https://beei.org/index.php/EEI}{[BEEI 2020-21]} 
+              \item International Conference on Computer Applications \& Information Security \href{http://www.iccais.tech/}{[ICCAIS 2020-21]} 
+              \item International Conference on Artificial Intelligence \& Modern Assistive Technology \href{http://icaimat.tech}{[ICAIMAT 2020]}
+              \item International Journal of Informatics and Communication Technology \href{http://ijict.iaescore.com/index.php/IJICT}{[IJ-ICT 2020]}
+              \item International Journal of Robotics and Automation \href{http://ijra.iaescore.com/index.php/IJRA}{[IJRA 2020]}
+	    \end{itemize}
+	\end{itemize}
 
 \end{body}
 
@@ -464,7 +415,7 @@ Instruction Set Architecture}'', in \emph{Programming Language Design and Implem
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Courses and Projects
 %\newpage
-\header{Other Projects \& Services}
+\header{Other Projects}
 
 \begin{body}
 	\vspace{14pt}
@@ -577,85 +528,10 @@ algorithms}
                                   decisions which would work for a large
                                   category of real-life graph applications.
 	\end{itemize}
-	\textbf{Services}{} \hfill  \\
-
-	\begin{itemize} \itemsep 3pt
-          \item Reviewer, The 1st Conference on Internet of Things and Embedded Intelligence \href{http://citei.intconference.org/}{[CITEI 2020]}
-          \item Sub-reviewer, The 30th International Conference on Concurrency Theory \href{https://event.cwi.nl/concur2019/}{[CONCUR 2019]}
-          \item Sub-reviewer, Workshop on Instruction Set Architecture Specification \href{https://www.cl.cam.ac.uk/~jrh13/spisa19.html}{[SpISA 2019]}
-	\end{itemize}
 \end{body}
 
 \smallskip
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Professional Experience
-\cmnt{
-\header{Professional Experience}
-
-\begin{body}
-	\vspace{14pt}
-	\href{https://www.google.com/intl/en/about/}{\textbf{Google Inc.}}, \emph{Software Engineering Engineer} \hfill \emph{May 2017 - August 2017}\\
-	\vspace*{-4pt}
-	\begin{itemize} \itemsep -0pt
-		\item  Worked in ``Google continuous profiling and efficiency'' team to augment the
-			profiling tools with analysis capable of
-			guiding the service owners to pinpoint unexpected
-			performance changes (called ``havocs'' in this work) in CPU time. Challenges are:
-			\begin{itemize}
-				\item To determine ``havocs'' amid noisy data.
-				\item To reduce false positives and pinpoint actionable ``havocs'' to the service providers.
-			\end{itemize}
-		\item Investigated the effectiveness of existing strategies in literature and open source.
-		\item
-			Developed a statistical Go tool which determines
-			potential ``havocs'' with reduced false positive rate.
-			Came up with an idea of correlating the
-			statistically detected trend changes in the data with
-			build CL changes which not only gives confidence on
-			trend change detection but also helps in reducing the
-			false positives.
-
-		\item Carried out the research part of the project
-			independently aligning the milestones and the work
-			progress with the project supervisor. Collaborated with
-			the team on the details of integrating with the data
-			querying pipeline.
-		\item Benefited by attending \& socializing @Google's PhD Intern Research Conference, 2017.
-		\item Volunteered @UIUC Alumni Event, 2017.
-	\end{itemize}
-
-	\vspace*{-4pt}
-	\href{http://www.apple.com}{\textbf{Apple Inc.}}, \emph{Compiler Engineer, PhD Intern} \hfill \emph{April 2016 - August 2016}\\
-	\vspace*{-4pt}
-	\begin{itemize} \itemsep -0pt  % reduce space between items
-                \item  Worked as a member of Swift Performance Team on an
-                  exploratory project which requires sound knowledge in
-                  compiler backend. Achieved functional completeness with real
-                  work loads.
-                \end{itemize}
-
-	\href{http://www.intel.in/content/www/in/en/homepage.html}{\textbf{Intel Technology India Pvt. Ltd.}}, \emph{Component Design Engineer} \hfill \emph{August 2011 - June 2013}\\
-	\vspace*{-4pt}
-	\begin{itemize} \itemsep -0pt  % reduce space between items
-                \item Worked as Design Automation Engineer for Formal Equivalence Verification (FEV) of hardware designs for Broadwell (BDX) and Skylake (SKL) projects. Involves
-                building flows and methodologies and interacting closely with
-                global FEV teams to provide FEV solutions.
-                \item Owner of tools and infrastructures for driving
-                FEV central runs for  BDX. Invloves working closely with teams of various
-                design styles.
-                \end{itemize}
-
-	\href{http://www.interrasystems.com/}{\textbf {Interra Systems India Pvt. Ltd.}}, \emph{Senior Member Of Technical Staff} \hfill \emph{August 2006 - July 2009}\\
-	\vspace*{-4pt}
-	\begin{itemize} \itemsep -0pt
-		\item Developer of Interra's premiere front-end analyzer products - Cheetah (SystemVerilog) and MVV(Mixed Verilog Vhdl) and 
-		provided support for several new constructs of System Verilog IEEE-1800-2005. 
-		\item Worked with \href{http://www.atrenta.com/}{Atrenta (I) Pvt. Ltd.} (service project) for the development of System Verilog features in Spyglass DFT.
-		\item Awarded \textbf{Interra Humming Bird Award} in recognition of \& appreciation for providing excellent support to \href{}{Atrenta (I) Pvt. Ltd.} in the project ``IEEE compliance for Spyglass''.
-	\end{itemize}
-\end{body}
-}
 
 \smallskip
 
@@ -701,178 +577,4 @@ algorithms}
 \end{body}
 
 \smallskip
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\cmnt{
-%Teaching Experience
-\header{Teaching Experience}
-
-\begin{body}
-	\vspace{14pt}
-	\textbf{University Of Illinois Urbana Champaign},  \hfill \emph{August 2013 - December 2013}\\
-	\vspace*{-4pt}
-	\begin{itemize} \itemsep -0pt  % reduce space between items
-		\item \textbf{Teaching Assistant} for \href{http://cs.illinois.edu/courses/profile/CS427-120138}{CS 427: Software Engineering I}: A Graduate level course.
-			\begin{itemize}
-				\item Designing the questions for homework and term examinations and grading those.
-				\item Conducting discussion sessions with the students to answer questions related to lectures/homework.   
-			\end{itemize}
-	\end{itemize}
-
-	\textbf{Indian Institute of Technology, Kanpur},  \hfill \emph{August 2009 - 2011}\\
-	\vspace*{-4pt}
-	\begin{itemize} \itemsep -0pt  % reduce space between items
-		\item \textbf{Tutor} for \href{http://www.cse.iitk.ac.in/teaching/courses/ESc101.html}{ESc 101: Fundamentals of Computing}: An undergraduate course.
-			\begin{itemize}
-				\item Responsible for weekly lecture class on C - programming language, supervision of programming laboratory and grading assignments and term examinations.
-			\end{itemize}
-		\item \textbf{Teaching Assistant} for \href{http://www.cse.iitk.ac.in/teaching/courses/CS335.html}{CS 335: Principles of Compiler Design}: An undergraduate course.
-			\begin{itemize}
-				\item Responsible for mentoring a student group on a course project of developing a simple compiler (using a subset of C-language constructs) demonstrating most of the phases of compiler design starting from Lexical \& Syntax analysis upto Intermediate code generation.
-				\item Grading assignments and term examinations.
-			\end{itemize}
-		\item \textbf{Teaching Assistant} for \href{http://www.cse.iitk.ac.in/teaching/courses/CS355.html}{CS355: Programming Tools and Techniques}: An undergraduate course.
-			\begin{itemize}
-				\item Grading assignments related to Software management tools such as make; Programming tools such as Python, Perl; Document preparation systems such as tex; Tools for building programs like Lex and Yacc.
-			\end{itemize}
-	\end{itemize}
-\end{body}
-
-\smallskip
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\cmnt{
-% Awards and Honors
-\header{Achievements/Distinctions}
-
-\begin{body}
-	\vspace{14pt}
-	\begin{itemize} \itemsep -0pt  % reduce space between items
-	%	\item Awarded \textbf{University Gold Medal} for securing 1st Rank in BE, Computer Science \& Engineering, 2002 batch.\\
-	%	\item Awarded \textbf{Best Student Award}, sponsored by \href{http://www.tcs.com}{Tata Consultancy Services}, for outstanding performance in BE, Computer Science \& Engineering, 2002 batch. \\
-	%	\item \textbf{Secured Rank $1$}, in M. Tech 2009 Batch, IIT Kanpur.
-	%	\item \textbf{Secured All India Rank $145$} (99.64 percentile) in GATE 2009, an exam for admission in Graduate Study.
-	%	\item \textbf{Ranked $356^{th}$} (among $\frac{1}{10}$ of Million+ students) in WB-JEE, 2002, an exam for admission in undergraduate study.
-	\end{itemize} 
-\end{body}
-
-\smallskip
-}
-
-
-
 \end{document}
-
-
-\cmnt{
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% MTech Course Projects
-\header{M.Tech Course Projects}
-
-\begin{body}
-	\vspace{14pt}
-	\textbf{\href{http://www.cse.iitk.ac.in/teaching/courses/CS738.html}{Advanced Compiler Optimizations}} \\
-		\begin{itemize} \itemsep -0pt 
-			\item[] To Extend the Generic Data Flow Analyzer GDFA (of gcc) to the data flow frameworks where data flow information can
-				be represented using bit vectors but the frameworks are not bit vector frameworks because they are non-separable e.g.,
-				faint variable analysis, possible undefined variable analysis, strongly live variable analysis.
-		\end{itemize}
-
-  		\medskip
-
-	\textbf{\href{http://www.cse.iitk.ac.in/teaching/courses/CS633.html}{Parallel Computing}} \\
-		\begin{itemize} \itemsep -0pt 
-			\item[] To design a customized processor (using parallel processing concepts) for the application of document retrieval
-				system. We developed a \href{https://github.com/sdasgup3/parallel-processor-design}{superscalar processor (with  an issue rate of 2)} using verilog hdl, and an assembler for that processor using flex and bison.
-		\end{itemize}
-\end{body}
-
-\smallskip
-%\newpage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% BTech Course Projects
-\header{B.Tech Project \hfill under supervision of \href{http://cse.iitkgp.ac.in/~pb}{Dr. Partha Bhowmick}}
-
-\begin{body}
-	\vspace{14pt}
-	\textbf{\href{http://dl.dropbox.com/u/86719354/BE_project.pdf}{Affine Transformation of Digital Curves Using Chain Codes.}}  \\
-		\begin{itemize} \itemsep -0pt  
-		\item[]  Affine Transformation of Digital Curves Using Chain Codes. The problem statement is to rotate a digital image by a given angle.
-		\end{itemize}
-\end{body}
-
-\smallskip
-\smallskip
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% References
-\header{References}
-	\vspace{14pt}
-
-\begin{body}
-%\begin{table}[position specifier]
-%\centering
-\begin{tabular}{l|l}
-
-& \\
-	\begin{tabular}{\p}
-		\href{http://www.cse.iitk.ac.in/users/karkare/}{Dr. Amey Karkare}, \\
-		Assistant Professor, \\
-		Department Of Computer Science \& Engineering, \\
-		Indian Institute Of Technology Kanpur, India. \\
-		Phone:	+91 512 259 7520 (Office) \\
-		Email: karkare@gmail.com, karkare@cse.iitk.ac.in	
-                Mobile: 919532689131
-	\end{tabular} &
-	\begin{tabular}{\p}
-		\href{http://cse.iitkgp.ac.in/~pb/}{Dr. Partha Bhowmick}, \\
-		Professor, \\
-		Department Of Computer Science \& Engineering, \\
-		Indian Institute Of Technology Kharagpur, India. \\
-		Phone:	+91-3222-283468 \\
-		FAX:	+91-3222-278985 \\
-		Email:	pb@cse.iitkgp.ernet.in \\
-		gmail:	 bhowmick@gmail.com \\
-	\end{tabular} \\
-& \\ \hline
-& \\
-	\begin{tabular}{\p}
-		\href{http://www.becs.ac.in/aboutjaya-sil-cstmenuitem}{Dr. Jaya Sil}, \\
-		Professor, \\
-		Department of Computer Science and Technology, \\
-		Bengal Engineering \& Science University, Shibpure, West Bengal, India. \\
-		Phone: +91 - 33 - 26684561/62/63 Ext. \\
-		Email:	js@cs.becs.ac.in \\
-		%Mobile: 09433283641 
-	\end{tabular} &
-	\begin{tabular}{\p}
-	\href{http://www.linkedin.com/pub/neelu-bajaj/8/491/7a7}{Neelu Bajaj}, \\
-	Director Engg. at Atrenta India Pvt. Ltd. \\
-	Email: neelu@noida.atrenta.com \\
-%	Mobile: (91) 9810803073.
-	\end{tabular} \\ 
-& \\ \hline
-& \\
-	\begin{tabular}{\p}
-		\href{http://www.linkedin.com/pub/kausik-datta/1/9a8/964}{Kausik Datta}, \\
-		Senior Manager at Mentor Graphics, \\
-		Kolkata Area, India \\
-		%Phone: +91 - 9830252538 \\
-		Email:	datta.kausik@gmail.com \\
-		%Mobile: 09433283641 
-	\end{tabular} &
-	\begin{tabular}{\p}
-		\href{http://www.jaduniv.edu.in/profile.php?uid=615}{Dr. Samiran Chattopadhyay}, \\
-		Head Of The Department, \\ 
-		\href{http://www.jaduniv.edu.in/view\_department.php?deptid=90}{Department of Information Technology}, \href{http://www.jaduniv.edu.in/}{Jadavpur University}, \\
-		West Bengal, India. \\
-		PH: 2335-8321 (O), 2414-6666 \\
-		Email:	samirancju@gmail.com \\
-		Mobile: 91 9830613450
-	\end{tabular} \\
-& \\ \hline
-
-\end{tabular}
-	
-\end{body}
-}

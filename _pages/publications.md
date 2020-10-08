@@ -20,6 +20,7 @@ redirect_from:
   <a href="../files/pldi_2020.pdf">[PDF]</a>
   <a href="https://doi.org/10.1145/3385412.3385964">[DOI]</a>
   <a href="../files/pldi_2020.bib">[BIB]</a>
+  <a href="https://www.youtube.com/watch?v=veV6TuPsRYw">[VID]</a>
   <a href="https://pldi20.sigplan.org/details/pldi-2020-papers/4/Scalable-Validation-of-Binary-Lifters">[PLDI'20]</a>
 
   - <b> A Complete Formal Semantics of x86-64 User-Level Instruction Set Architecture, PLDI 2019 </b> <br />

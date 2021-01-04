@@ -7,9 +7,10 @@ redirect_from:
   - /publications
 ---
 
-## Ph.D. Dissertation
+## Ph.D. Dissertation (University of Illinois at Urbana Champaign) advised by <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a>
 <b> Scalable Validation Of Binary Lifters </b> <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>.
+  <a href="../files/FinalDefence.pdf">[PDF]</a>
   <a href="http://hdl.handle.net/2142/107968">[URL]</a>
   <a href="../files/thesis_2020.bib">[BIB]</a>
 

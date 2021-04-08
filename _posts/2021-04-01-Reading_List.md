@@ -13,23 +13,23 @@ My reading-list organised based on various topics.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow">Topic</th>
-    <th class="tg-c3ow">Video</th>
-    <th class="tg-c3ow">Papers</th>
-    <th class="tg-c3ow">Blogs</th>
+    <th class="tg-9ydz">Topics</th>
+    <th class="tg-9ydz">Video</th>
+    <th class="tg-9ydz">Papers</th>
+    <th class="tg-9ydz">Blogs</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9wq8" rowspan="2">Symbolic execution</td>
-    <td class="tg-c3ow"><a href="https://www.youtube.com/watch?v=QrtGOrSrVPQ" target="_blank" rel="noopener noreferrer">Dynamic Symbolic Execution</a></td>
-    <td class="tg-c3ow">X</td>
-    <td class="tg-c3ow">X</td>
+    <td class="tg-ted4" rowspan="2">Symbolic execution</td>
+    <td class="tg-ao2g"><a href="https://www.youtube.com/watch?v=QrtGOrSrVPQ" target="_blank" rel="noopener noreferrer">Dynamic Symbolic Execution</a></td>
+    <td class="tg-ao2g">X</td>
+    <td class="tg-ao2g">X</td>
   </tr>
   <tr>
-    <td class="tg-baqh">X</td>
-    <td class="tg-nrix">X</td>
-    <td class="tg-p59o">X</td>
+    <td class="tg-ao2g">X</td>
+    <td class="tg-ted4">X</td>
+    <td class="tg-51pv">X</td>
   </tr>
 </tbody>
 </table>

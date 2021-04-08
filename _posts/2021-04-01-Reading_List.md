@@ -7,7 +7,7 @@ tags:
 - Static/Dymanic/Symbolic Execution
 date: 01-04-2021
 ---
-My Reading list triaged based on borader topics.
+My reading-list organised based on various topics.
 
 
 |        Topic       |                                   Video                                   | Papers | Blogs |

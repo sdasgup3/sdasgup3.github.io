@@ -22,14 +22,14 @@ My reading-list organised based on various topics.
 <tbody>
   <tr>
     <td class="tg-ted4" rowspan="2">Symbolic execution</td>
-    <td class="tg-ao2g"><a href="https://www.youtube.com/watch?v=QrtGOrSrVPQ" target="_blank" rel="noopener noreferrer">Dynamic Symbolic Execution</a></td>
-    <td class="tg-ao2g">X</td>
-    <td class="tg-ao2g">X</td>
+    <td class="tg-de2y"><a href="https://www.youtube.com/watch?v=QrtGOrSrVPQ" target="_blank" rel="noopener noreferrer">Dynamic Symbolic Execution</a></td>
+    <td class="tg-de2y">X</td>
+    <td class="tg-de2y">X</td>
   </tr>
   <tr>
-    <td class="tg-ao2g">X</td>
-    <td class="tg-ted4">X</td>
-    <td class="tg-51pv">X</td>
+    <td class="tg-de2y">X</td>
+    <td class="tg-g4tm">X</td>
+    <td class="tg-aokl">X</td>
   </tr>
 </tbody>
 </table>

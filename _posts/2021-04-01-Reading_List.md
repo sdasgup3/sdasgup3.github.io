@@ -10,7 +10,6 @@ date: 01-04-2021
 My reading-list organised based on various topics.
 
 
-
 <table class="tg">
 <thead>
   <tr>
@@ -23,14 +22,14 @@ My reading-list organised based on various topics.
 <tbody>
   <tr>
     <td class="tg-9wq8" rowspan="2">Symbolic execution</td>
-    <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=QrtGOrSrVPQ" target="_blank" rel="noopener noreferrer">Dynamic Symbolic Execution</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"><a href="https://www.youtube.com/watch?v=QrtGOrSrVPQ" target="_blank" rel="noopener noreferrer">Dynamic Symbolic Execution</a></td>
+    <td class="tg-c3ow">X</td>
+    <td class="tg-c3ow">X</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-nrix">X</td>
+    <td class="tg-p59o">X</td>
   </tr>
 </tbody>
 </table>

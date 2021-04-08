@@ -5,7 +5,7 @@ tags:
 - LLVM
 - Compilers
 - Static/Dymanic/Symbolic Execution
-date: 2022-04-01
+date: 2021-04-01
 ---
 My Reading list triaged based on borader topics.
 

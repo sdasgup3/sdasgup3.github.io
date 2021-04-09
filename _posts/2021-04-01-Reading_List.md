@@ -21,7 +21,7 @@ My reading-list organised based on various topics.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ted4" rowspan="2">Symbolic execution</td>
+    <td class="tg-jbrg" rowspan="2">Symbolic execution</td>
     <td class="tg-de2y"><a href="https://www.youtube.com/watch?v=QrtGOrSrVPQ" target="_blank" rel="noopener noreferrer">Dynamic Symbolic Execution</a></td>
     <td class="tg-de2y">X</td>
     <td class="tg-de2y">X</td>
@@ -30,6 +30,17 @@ My reading-list organised based on various topics.
     <td class="tg-de2y">X</td>
     <td class="tg-g4tm">X</td>
     <td class="tg-aokl">X</td>
+  </tr>
+  <tr>
+    <td class="tg-z3tv" rowspan="2">Dataflow Analysis</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=OROXJ9-wUQE" target="_blank" rel="noopener noreferrer">Dataflow Analysis</a></td>
+    <td class="tg-0lax">X</td>
+    <td class="tg-0lax">X</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">X</td>
+    <td class="tg-0lax">X</td>
+    <td class="tg-0lax">X</td>
   </tr>
 </tbody>
 </table>

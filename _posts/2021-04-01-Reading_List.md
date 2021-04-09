@@ -57,6 +57,8 @@ My reading-list organised based on various topics.
 </table>
 
 
+
+
 | **var** | **let** | **const** |
 |-----|-----|-----|
 | Declares a variable, optionally initializing it to a value. | Declares a block-scoped, local variable, optionally initializing it to a value. | Declares a block-scoped, read-only named constant. |

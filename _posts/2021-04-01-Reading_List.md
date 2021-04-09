@@ -42,5 +42,16 @@ My reading-list organised based on various topics.
     <td class="tg-0lax">X</td>
     <td class="tg-0lax">X</td>
   </tr>
+  <tr>
+    <td class="tg-z3tv" rowspan="2">Instruction Scheduling</td>
+    <td class="tg-0lax">X</td>
+    <td class="tg-0lax"><a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.8084&rep=rep1&type=pdf" target="_blank" rel="noopener noreferrer">Swing Modulo Scheduling: A Lifetime-Sensitive Approach</a></td>
+    <td class="tg-0lax">X</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">X</td>
+    <td class="tg-0lax"><a href="https://llvm.org/pubs/2005-06-17-LattnerMSThesis.pdf" target="_blank" rel="noopener noreferrer">Thesis: AN IMPLEMENTATION OF SWING MODULO SCHEDULING WITH EXTENSIONS FOR SUPERBLOCKS</a></td>
+    <td class="tg-0lax">X</td>
+  </tr>
 </tbody>
 </table>

@@ -69,6 +69,7 @@ redirect_from:
   - <b> The K Framework, DPA 2019 </b>  <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, in Workshop on Declarative Program Analysis (DPA). <br />
   <a href="../files/dpa_2019.pdf">[PDF]</a>
+  <a href="../files/dpa_2019.bib">[BIB]</a>
   <a href="https://pldi19.sigplan.org/details/dpa-2019-papers/5/The-K-Framework">[DPA'19]</a>
 
 ## Posters

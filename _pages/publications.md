@@ -82,7 +82,7 @@ redirect_from:
   - <b>  Binary Decompilation to LLVM IR, LLVM Developers' Meeting, 2016 </b> <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, Joshua Cranmer, <a href="https://edmcman.github.io/">Edward Schwartz</a> and <a href="https://vikram.cs.illinois.edu/">Vikram S. Adve</a> <br />
   <a href="../files/allin_poster.pdf">[PDF]</a>
-  <a href="https://llvm.org/devmtg/2016-11/">[LLVM Dev Meet'16]</a>
+  <a href="https://llvmdevelopersmeetingbay2016.sched.com/event/8Z03/poster-session">[LLVM Dev Meet'16]</a>
 
   - <b>  Dependence Analysis for Parallelization of Sequential Programs, APLAS 2010 </b> <br />
   by <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>, <a href="http://www.cse.iitb.ac.in/~bbasak/">Barnali Basak</a> & <a href="http://www.cse.iitk.ac.in/users/karkare/">Amey Karkare</a>., the 8th ASIAN Symposium on Programming Languages & Systems, APLAS 2010 <br /> 

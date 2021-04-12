@@ -55,6 +55,7 @@ redirect_from:
   - <b> Formalizing x86-64 Instruction Decoder in K, SpISA 2019 </b> <br />
   by Andrew H. Miranti, <b><a href="https://sdasgup3.github.io/">Sandeep Dasgupta</a></b>  & <a href="http://fsl.cs.illinois.edu/index.php/Grigore_Rosu">Grigore Rosu</a>., in Workshop on Instruction Set Architecture Specification, Portland OR, USA. <br />
   <a href="../files/spisa_2019.pdf">[PDF]</a>
+  <a href="../files/spisa_2019.bib">[BIB]</a>
   <a href="../files/ppt_spisa_2019.pdf">[PPT]</a>
   <a href="https://www.cl.cam.ac.uk/~jrh13/spisa19.html">[SpISA'19]</a>
 

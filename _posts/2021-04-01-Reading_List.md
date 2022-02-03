@@ -59,8 +59,8 @@ My reading-list organised based on various topics.
 
 
 
-| var | let | const |
-|------:|-----:|------:|
-| A | B | C |
-| X| Y| Z|
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 

@@ -55,12 +55,3 @@ My reading-list organised based on various topics.
   </tr>
 </tbody>
 </table>
-
-
-
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-

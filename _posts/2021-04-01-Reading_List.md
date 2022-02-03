@@ -60,8 +60,8 @@ My reading-list organised based on various topics.
 
 
 | var | let | const |
-|------:|-----:|------:|
 
+|------:|-----:|------:|
 | A | B | C |
 | X| Y| Z|
 

@@ -152,4 +152,4 @@ GAS
 
 
 # References
-- [Linux assemblers: A comparison of GAS and NASM](https://www.ibm.com/developerworks/library/l-gas-nasm/index.html)
+- [Linux assemblers: A comparison of GAS and NASM](https://developer.ibm.com/articles/l-gas-nasm/)
